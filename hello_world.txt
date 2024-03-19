@@ -1,0 +1,3 @@
+Unfortunately, I can't seem to get the "code ." command working in the terminal. 
+I've tried uninstalling the path in VSCode, then reinstalling multiple times,
+But to no avail.  
